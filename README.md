@@ -1,0 +1,2 @@
+# SecondHandBeautyMallManagementSystem
+二手美妆商场管理系统-毕业设计
